@@ -33,5 +33,5 @@ for i=0:n
 end
 S = S*h/3
 
-println("Age of the universe is ", S, " years")
+println("Age of the universe is ", S, " years for a = ", a)
 
